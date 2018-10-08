@@ -1,0 +1,2 @@
+# Google_Colaboratory_using_TPU_dogs_vs_cats
+Google Colaboratory using TPU in case dogs_vs_cats classification
